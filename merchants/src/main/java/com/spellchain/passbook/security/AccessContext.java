@@ -1,4 +1,4 @@
-package com.imooc.passbook.security;
+package com.spellchain.passbook.security;
 
 /**
  * <h1>用 ThreadLocal 去单独存储每一个线程携带的 Token 信息</h1>

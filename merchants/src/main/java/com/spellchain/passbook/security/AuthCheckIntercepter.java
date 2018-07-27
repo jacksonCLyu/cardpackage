@@ -1,6 +1,6 @@
-package com.imooc.passbook.security;
+package com.spellchain.passbook.security;
 
-import com.imooc.passbook.constant.Constants;
+import com.spellchain.passbook.constant.Constants;
 import org.springframework.stereotype.Component;
 import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.HandlerInterceptor;

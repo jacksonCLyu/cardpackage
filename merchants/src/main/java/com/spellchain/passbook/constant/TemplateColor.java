@@ -1,4 +1,4 @@
-package com.imooc.passbook.constant;
+package com.spellchain.passbook.constant;
 
 /**
  * 优惠券背景色枚举类

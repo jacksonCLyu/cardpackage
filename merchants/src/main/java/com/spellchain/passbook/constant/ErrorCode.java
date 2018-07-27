@@ -1,4 +1,4 @@
-package com.imooc.passbook.constant;
+package com.spellchain.passbook.constant;
 
 /**
  * <h2>错误码枚举类</h2>

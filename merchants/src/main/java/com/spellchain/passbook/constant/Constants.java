@@ -1,4 +1,4 @@
-package com.imooc.passbook.constant;
+package com.spellchain.passbook.constant;
 
 /**
  * <h1>通用常量</h1>
