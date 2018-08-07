@@ -86,7 +86,7 @@ public class MerchantsServImpl implements IMerchantsServ {
             kafkaTemplate.send(
                     Constants.TEMPLATE_TOPIC,
                     Constants.TEMPLATE_TOPIC,
-                    passTemplate
+                    template
             );
             log.info("DropPassTemplates:{}", passTemplate);
         }
