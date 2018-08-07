@@ -15,4 +15,5 @@ public class MerchantsApplication {
     public static void main(String[] args) {
         SpringApplication.run(MerchantsApplication.class, args);
     }
+
 }

@@ -17,4 +17,4 @@ server:
 
 logging:
   level: debug
-  file: imooc-merchants.log
+  file: spell-merchants.log
